@@ -1,0 +1,40 @@
+2026-04-22 00:16:19,767 - INFO - Job started
+2026-04-22 00:16:19,800 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-04-22 00:16:19,866 - ERROR - Invalid CSV format
+2026-04-22 00:16:19,866 - INFO - Job failed
+2026-04-22 00:20:25,430 - INFO - Job started
+2026-04-22 00:20:25,431 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-04-22 00:20:25,461 - ERROR - Missing 'close' column
+2026-04-22 00:20:25,462 - INFO - Job failed
+2026-04-22 00:24:26,153 - INFO - Job started
+2026-04-22 00:24:26,155 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-04-22 00:24:26,201 - INFO - Columns found: ['timestamp,open,high,low,close,volume_btc,volume_usd']
+2026-04-22 00:24:26,205 - ERROR - Missing 'close' column. Found: ['timestamp,open,high,low,close,volume_btc,volume_usd']
+2026-04-22 00:24:26,205 - INFO - Job failed
+2026-04-22 00:27:27,918 - INFO - Job started
+2026-04-22 00:27:27,920 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-04-22 00:27:27,958 - INFO - Columns found: ['timestamp,open,high,low,close,volume_btc,volume_usd']
+2026-04-22 00:27:27,960 - ERROR - Missing 'close' column. Found: ['timestamp,open,high,low,close,volume_btc,volume_usd']
+2026-04-22 00:27:27,960 - INFO - Job failed
+2026-04-22 00:29:20,319 - INFO - Job started
+2026-04-22 00:29:20,320 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-04-22 00:29:20,336 - INFO - Columns found: ['timestamp,open,high,low,close,volume_btc,volume_usd']
+2026-04-22 00:29:20,338 - ERROR - Missing 'close' column. Found: ['timestamp,open,high,low,close,volume_btc,volume_usd']
+2026-04-22 00:29:20,338 - INFO - Job failed
+2026-04-22 00:32:44,693 - INFO - Job started
+2026-04-22 00:32:44,695 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-04-22 00:32:44,773 - INFO - Columns found: ['timestamp,open,high,low,close,volume_btc,volume_usd']
+2026-04-22 00:32:44,776 - ERROR - Missing 'close' column. Found: ['timestamp,open,high,low,close,volume_btc,volume_usd']
+2026-04-22 00:32:44,778 - INFO - Job failed
+2026-04-22 00:33:51,629 - INFO - Job started
+2026-04-22 00:33:51,631 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-04-22 00:33:51,661 - INFO - Columns found: ['timestamp,open,high,low,close,volume_btc,volume_usd', 'unnamed: 1']
+2026-04-22 00:33:51,663 - ERROR - Missing 'close' column. Found: ['timestamp,open,high,low,close,volume_btc,volume_usd', 'unnamed: 1']
+2026-04-22 00:33:51,663 - INFO - Job failed
+2026-04-22 00:37:16,034 - INFO - Job started
+2026-04-22 00:37:16,035 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-04-22 00:37:16,098 - INFO - Columns found: ['timestamp', 'open', 'high', 'low', 'close', 'volume_btc', 'volume_usd']
+2026-04-22 00:37:16,099 - INFO - Rows loaded: 10000
+2026-04-22 00:37:16,104 - INFO - Processing completed
+2026-04-22 00:37:16,105 - INFO - Final signal rate: 0.4989
+2026-04-22 00:37:16,106 - INFO - Job completed successfully
